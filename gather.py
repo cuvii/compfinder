@@ -1,5 +1,4 @@
-#Crawler python file for Compfinder project for Information Retrieval, Fall 2017. Paula Wojcik.
-#Do not modify or copy without explicit permission.
+#Crawler python file for Compfinder project for Information Retrieval, Fall 2017. 
 #Utilizes BeautifulSoup for assistance with crawling format.
 #Web crawler that traverses arxiv's tech section of the site for research articles.
 
