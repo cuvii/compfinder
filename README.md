@@ -3,7 +3,7 @@ Welcome to the Compfinder file collection!
 >gather.py
 >searching.py
 
-Gather.py works with a connected database, in this case, compfinder, in order to crawl the 
+Gather.py works with a connected database in SQlite, in this case, compfinder, in order to crawl the 
 Arxiv CORR site! It currently will only add to the database, and not delete or remove duplicates.
 
 Searching.py contains a main method. By running it in command prompt, you will be able
