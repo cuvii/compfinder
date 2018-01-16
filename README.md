@@ -1,4 +1,4 @@
->>>>HELLO<<<<
+HELLO
 Welcome to the Compfinder file collection!
 >compfinder.db
 >gather.py
